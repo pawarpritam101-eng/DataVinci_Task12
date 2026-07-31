@@ -3,8 +3,9 @@
 A responsive landing page for AMZexpand's Amazon seller audit service.
 
 ## Live Preview
-Github link - https://pawarpritam101-eng.github.io/amzexpand-landing/
-Netify link - https://jazzy-tartufo-c09fe3.netlify.app/
+1.Github link - https://pawarpritam101-eng.github.io/amzexpand-landing/
+
+2.Netify link - https://jazzy-tartufo-c09fe3.netlify.app/
 
 ## Tech Stack
 - HTML5
